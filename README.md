@@ -205,9 +205,9 @@ terraform apply
 ![Доступ к файлу с картинкой по ссылке из браузера](img/005.png)
 
 
-![Доступность файла с картинкой через `curl`](https://github.com/SLOV1977/clopro-homeworks-15.2/tree/main/img/005.png)
+![Доступность файла с картинкой через `curl`](https://github.com/SLOV1977/clopro-homeworks-15.2/tree/main/img/006.png)
 
-![Доступность файла с картинкой через `curl`](img/005.png)
+![Доступность файла с картинкой через `curl`](img/006.png)
 
 
 ![Созданные ВМ, включая ВМ группы с шаблоном LAMP](https://github.com/SLOV1977/clopro-homeworks-15.2/tree/main/img/007.png)
